@@ -1,0 +1,696 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"remove",
+				"removeClass	.removeClass"
+			],
+			[
+				"mysql_fetch_",
+				"mysql_fetch_assoc"
+			],
+			[
+				"var",
+				"var_dump"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"padding",
+				"padding"
+			],
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"the",
+				"the_author"
+			],
+			[
+				"list",
+				"list-style"
+			],
+			[
+				"a",
+				"a	<a>"
+			],
+			[
+				"blo",
+				"bloginfo"
+			],
+			[
+				"hr",
+				"href	Attr"
+			],
+			[
+				"style",
+				"style	Attr"
+			],
+			[
+				"Min",
+				"MinHeight"
+			],
+			[
+				"new",
+				"newwindow"
+			],
+			[
+				"Ev",
+				"EVT_MENU"
+			],
+			[
+				"App",
+				"Append"
+			],
+			[
+				"menub",
+				"menubar"
+			],
+			[
+				"New",
+				"NewId"
+			],
+			[
+				"__",
+				"__init__"
+			],
+			[
+				"menu",
+				"menuchoice"
+			],
+			[
+				"json",
+				"json_encode"
+			],
+			[
+				"cart",
+				"cart_items"
+			],
+			[
+				"car",
+				"cart_items"
+			],
+			[
+				"_",
+				"_COOKIE"
+			],
+			[
+				"for",
+				"for	for (…) {…}"
+			],
+			[
+				"getcla",
+				"get_class_methods"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"memca",
+				"MemcachedHost"
+			],
+			[
+				"mem",
+				"Memcached"
+			],
+			[
+				"memcach",
+				"MemcachedPort"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"set c",
+				"Set Syntax: C"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"intall",
+				"Package Control: Install Package"
+			],
+			[
+				"task",
+				"Tasks: New document"
+			],
+			[
+				"enable",
+				"Package Control: Enable Package"
+			],
+			[
+				"auto",
+				"Autoprefix CSS"
+			],
+			[
+				"prefix",
+				"Autoprefix CSS"
+			],
+			[
+				"convert",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"convert tab",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"indent",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"preview",
+				"Markdown Preview: Github Flavored Markdown: Preview in Browser"
+			],
+			[
+				"python",
+				"Set Syntax: Python"
+			],
+			[
+				"markdown",
+				"Markdown Preview: Python Markdown: Preview in Browser"
+			],
+			[
+				"c++",
+				"Set Syntax: C++"
+			],
+			[
+				"bs3",
+				"Snippet: bs3-jumbotron"
+			],
+			[
+				"bs3-list",
+				"Snippet: bs3-list-group"
+			],
+			[
+				"bs3-container",
+				"Snippet: bs3-container"
+			],
+			[
+				"bs3-",
+				"Snippet: bs3-navbar"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"disa",
+				"Package Control: Disable Package"
+			],
+			[
+				"Snippet: bs3",
+				"Snippet: bs3-cdn"
+			],
+			[
+				"Snippet: audio",
+				"Snippet: bs3-input-radio"
+			],
+			[
+				"Snippet: ",
+				"Snippet: bs3-pagination"
+			],
+			[
+				"color",
+				"Snippet: bs3-input-color"
+			],
+			[
+				"gist",
+				"Gist: Open Gist"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"disable",
+				"Package Control: Disable Package"
+			],
+			[
+				"",
+				"Gist: Open Gist"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"package insta",
+				"Package Control: Install Package"
+			],
+			[
+				"emmet",
+				"Emmet: Expand Abbreviation"
+			],
+			[
+				"package enable",
+				"Package Control: Enable Package"
+			]
+		],
+		"width": 647.0
+	},
+	"console":
+	{
+		"height": 139.0,
+		"history":
+		[
+			"for ch in a:\\n print ch",
+			"for ch in a:",
+			"for ch in range:",
+			"print (a)",
+			"print a",
+			"a",
+			"a=range(5)",
+			"print(\"abc\")",
+			"print \"abc\"",
+			"for ch in range:",
+			"a",
+			"a=range(5)",
+			"print (\"hello\")",
+			"print \"hello\"",
+			"exit()",
+			"close",
+			"self.close",
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/var/www/mywordpress/wp-content/themes/googlestyle/comment.php",
+		"/var/www/studentfeedback/report.php",
+		"/var/www/studentfeedback/ajax/getreport.php",
+		"/home/cyberkiller/youtube videos to download",
+		"/home/cyberkiller/Desktop/wordpress.TODO",
+		"/home/cyberkiller/NetBeansProjects/HTML5Application/public_html/about.html",
+		"/home/cyberkiller/NetBeansProjects/HTML5Application/public_html/index.html",
+		"/var/www/july 2010-june 2011",
+		"/home/cyberkiller/svce",
+		"/var/www/mywordpress/wp-content/themes/twentyfourteen/style.css",
+		"/var/www/mywordpress/wp-content/themes/googlestyle/index.php",
+		"/home/cyberkiller/Documents/new file.txt",
+		"/var/www/studentfeedback/feedback.php",
+		"/var/www/mywordpress/wp-content/themes/googlestyle/404.php",
+		"/var/www/mywordpress/wp-content/themes/googlestyle/header.php",
+		"/var/www/mywordpress/wp-content/themes/googlestyle/style.css",
+		"/var/www/mywordpress/wp-includes/feed.php",
+		"/home/cyberkiller/.config/sublime-text-3/Packages/Default/Default (Linux).sublime-keymap",
+		"/var/www/mywordpress/wp-content/themes/twentyfourteen/index.php",
+		"/var/www/mywordpress/wp-content/themes/googlestyle/single.php",
+		"/var/www/mywordpress/wp-content/themes/twentyfourteen/header.php",
+		"/var/www/mywordpress/wp-content/themes/twentyfourteen/404.php",
+		"/var/www/mywordpress/wp-content/themes/index.php",
+		"/var/www/mywordpress/wp-content/themes/twentytwelve/comments.php",
+		"/var/www/mywordpress/wp-content/themes/twentythirteen/comments.php",
+		"/var/www/mywordpress/wp-includes/comment-template.php",
+		"/var/www/mywordpress/wp-content/themes/twentyfourteen/functions.php",
+		"/var/www/mywordpress/wp-content/themes/twentyfourteen/comments.php",
+		"/var/www/mywordpress/wp-content/themes/googlestyle/sidebar.php",
+		"/var/www/mywordpress/wp-login.php",
+		"/var/www/mywordpress/wp-content/themes/twentyfourteen/rtl.css",
+		"/var/www/mywordpress/wp-content/themes/googlestyle/functions.php",
+		"/var/www/mywordpress/wp-content/themes/twentyfourteen/single.php",
+		"/var/www/mywordpress/wp-content/themes/googlestyle/abc.html",
+		"/var/www/mywordpress/wp-content/themes/googlestyle/footer.php",
+		"/var/www/mywordpress/wp-content/themes/twentyfourteen/image.php",
+		"/var/www/mywordpress/wp-includes/functions.php",
+		"/var/www/mywordpress/wp-includes/functions.wp-scripts.php",
+		"/var/www/mywordpress/wp-includes/functions.wp-styles.php",
+		"/var/www/mywordpress/wp-signup.php",
+		"/var/www/mywordpress/index.php",
+		"/var/www/mywordpress/wp-content/themes/twentythirteen/header.php",
+		"/var/www/mywordpress/wp-content/themes/twentythirteen/search.php",
+		"/var/www/mywordpress/wp-load.php",
+		"/var/www/mywordpress/wp-blog-header.php",
+		"/var/www/mywordpress/wp-settings.php",
+		"/var/www/mywordpress/wp-config.php",
+		"/var/www/mywordpress/wp-content/themes/twentythirteen/index.php",
+		"/home/cyberkiller/.zshrc",
+		"/home/cyberkiller/Videos/Despicable Me 2 (2013)/Despicable.Me.2.2013.720p.BluRay.x264-VeDeTT.srt",
+		"/var/www/mywordpress/Bootply.com - Bootstrap Bootstrap Google Plus Theme.html",
+		"/home/cyberkiller/Downloads/wxGlade-0.6.8/events_mixin.py",
+		"/var/www/studentfeedback/index.php",
+		"/var/www/studentfeedback/login.php",
+		"/var/www/cdn/Bootstrap/css/bootstrap.css",
+		"/var/www/local/index.php",
+		"/var/www/studentfeedback/wget-log",
+		"/var/www/mywordpress/wp-content/themes/twentyfourteen/content-link.php",
+		"/var/www/mywordpress/wp-includes/cron.php",
+		"/var/www/mywordpress/wp-includes/class-wp-ajax-response.php",
+		"/var/www/mywordpress/wp-includes/class-snoopy.php",
+		"/var/www/mywordpress/wp-includes/class-phpmailer.php",
+		"/var/www/mywordpress/wp-includes/canonical.php",
+		"/var/www/mywordpress/wp-content/index.php",
+		"/var/www/mywordpress/wp-content/themes/twentyfourteen/footer.php",
+		"/home/cyberkiller/Desktop/python-practice/frame.py",
+		"/home/cyberkiller/Documents/Sherlock.3x01.The.Empty.Hearse.720p.HDTV.x264-FoV.srt",
+		"/media/cyberkiller/Nishchal/SHERLOCK 3X02/Sherlock.3x02.The_Sign_Of_Three.HDTV_x264-FoV/sherlock.the.empty.hearse.(2014).ara.1cd.(5475436)/Sherlock.3x01.The.Empty.Hearse.720p.HDTV.x264-FoV.srt",
+		"/media/cyberkiller/Nishchal/SHERLOCK 3X02/Sherlock.3x02.The_Sign_Of_Three.HDTV_x264-FoV/sherlock.the.sign.of.three.(2014).ara.1cd.(5482290)/sherlock.3x02.the_sign_of_three.720p_hdtv_x264-fov.srt",
+		"/media/cyberkiller/Nishchal/SHERLOCK 3X02/Sherlock.3x02.The_Sign_Of_Three.HDTV_x264-FoV/sherlock.his.last.vow.(2014).ara.1cd.(5493005)/Sherlock.S03E03.His.Last.Vow.srt",
+		"/home/cyberkiller/macbuntu/Macbuntu-10.10/readme",
+		"/home/cyberkiller/Desktop/python-practice/index.cpp",
+		"/home/cyberkiller/Videos/transfer/Escape Plan 2013 HDRip x264 AAC-MiLLENiUM/Subs/Escape Plan 2013 HDRip x264 AAC-MiLLENiUM-eng.srt",
+		"/home/cyberkiller/tower.cpp",
+		"/home/cyberkiller/linux seminar.txt",
+		"/home/cyberkiller/Desktop/python-practice/untitled.py",
+		"/home/cyberkiller/Desktop/python-practice/towerofhonai.py",
+		"/home/cyberkiller/battery",
+		"/usr/include/stack.h",
+		"/home/cyberkiller/digitsum.cpp",
+		"/home/cyberkiller/abc.cpp",
+		"/home/cyberkiller/test.c",
+		"/var/www/bootstrap-3.0.3/less/normalize.less",
+		"/var/www/bootstrap-3.0.3/less/wells.less",
+		"/var/www/mi7/index.php",
+		"/var/www/mi7/mi7.sublime-project",
+		"/var/www/code_igniter/application/config/database.php",
+		"/var/www/local/config.php",
+		"/var/www/code_igniter/system/database/DB.php",
+		"/var/www/index.php",
+		"/var/www/code_igniter/index.php",
+		"/usr/share/phpmyadmin/index.php",
+		"/usr/share/phpmyadmin/js/get_scripts.js.php",
+		"/Nishchal/Documents/plans",
+		"/usr/share/phpmyadmin/themes/pmahomme/css/codemirror.css.php",
+		"/usr/share/phpmyadmin/themes/pmahomme/css/common.css.php",
+		"/usr/share/phpmyadmin/themes/pmahomme/css/pmd.css.php",
+		"/etc/phpmyadmin/apache.conf",
+		"/Nishchal/Tutorials/Videos/Others/TutsPlus - Working with Clients (and Getting Paid!)/Info.txt",
+		"/home/cyberkiller/stackLl.cpp",
+		"/media/cyberkiller/MYLINUXLIVE/boot/grub/loopback.cfg",
+		"/media/cyberkiller/MYLINUXLIVE/to download.txt",
+		"/media/cyberkiller/MYLINUXLIVE/to download",
+		"/home/cyberkiller/.bashrc",
+		"/var/www/mi7/.htaccess",
+		"/home/cyberkiller/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+		"/home/cyberkiller/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+		"/home/cyberkiller/.config/sublime-text-3/Packages/User/PHP.sublime-settings",
+		"/home/cyberkiller/.config/sublime-text-3/Packages/User/Distraction Free.sublime-settings",
+		"/var/www/html/task.todo",
+		"/var/www/html/index.php",
+		"/var/www/memcached/index.php",
+		"/home/cyberkiller/.config/sublime-text-3/Packages/User/html/tinymce.sublime-snippet",
+		"/home/cyberkiller/.config/sublime-text-3/Packages/User/Gist.sublime-settings",
+		"/home/cyberkiller/.config/sublime-text-3/Packages/Gist/Gist.sublime-settings",
+		"/home/cyberkiller/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/home/cyberkiller/.config/sublime-text-3/Packages/User/html/bsmodal.sublime-snippet",
+		"/home/cyberkiller/.config/sublime-text-3/Packages/User/html/bsnav.sublime-snippet",
+		"/var/www/shopnepal/js/shopping.js",
+		"/var/www/shopnepal/index.php",
+		"/var/www/shopnepal/cart.php",
+		"/home/cyberkiller/Downloads/oh-my-zsh/oh-my-zsh-master/oh-my-zsh.sh",
+		"/var/www/shopnepal/js/shopping cart pseudo code.txt",
+		"/Nishchal/Tutorials/Vidoes/Web/Save Yourself Some Time/jquery tut/lesson-15/slider.css",
+		"/var/www/shopnepal/shopping basket/index.html",
+		"/var/www/shopnepal/shopping basket/js/shopping.js",
+		"/home/cyberkiller/abc.py",
+		"/var/www/shopnepal/shopping basket/js/shopping.min.js~"
+	],
+	"find":
+	{
+		"height": 310.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"('');",
+			"<a>",
+			"https?://[a-z]{1,4}\\.[a-z0-9]{3,}\\.[a-z]{2,}",
+			"https?://[a-z]{1,4}\\.[a-z]{3,}\\.[a-z]{2,}",
+			"https?://[a-z]{1,4}\\.[a-z][0-9]{3,}\\.[a-z]{2,}",
+			"https?://[a-z]{1,4}\\.[a-z]{3,}\\.[a-z]{2,}",
+			"display",
+			"25px",
+			"ctrl+enter",
+			"shift+enter",
+			"enter",
+			"display",
+			"bloginfo",
+			"comment_form",
+			"  ",
+			"panel-body",
+			"p",
+			"Upgrade to Bootstrap 3",
+			"post_thumbnail",
+			"featured-co",
+			"p",
+			"Lorem",
+			"lorem2",
+			"blog_info",
+			"bloginfo",
+			"<div",
+			"div",
+			"><",
+			"modal",
+			"script",
+			"  ",
+			"right",
+			"      ",
+			"     ",
+			"    ",
+			"   ",
+			"  ",
+			")",
+			"\")",
+			"Colour",
+			"()\n",
+			"()",
+			"dShowModal",
+			"()",
+			"Destroy",
+			"box",
+			"\n		",
+			"		",
+			"wx",
+			"()",
+			"event",
+			"SetMenuBar",
+			"EVT_MENU",
+			"()",
+			"Panel",
+			"panel",
+			"		",
+			"\")\n",
+			"	",
+			"pop",
+			"c",
+			"a",
+			"push",
+			"a",
+			"choice=",
+			"choice",
+			"pop",
+			"a.s",
+			"endl<<",
+			"c",
+			"----",
+			"-",
+			"--",
+			"---",
+			"----",
+			"-----",
+			"--------------",
+			"-------------",
+			"------------",
+			"-----------",
+			"----------",
+			"---------",
+			"--------",
+			"-------",
+			"------------------",
+			"-----------------",
+			"----------------",
+			"---------------",
+			"--------------",
+			"-------------",
+			"------------",
+			"-----------",
+			"----------",
+			"---------",
+			"--------",
+			"-------",
+			"------------------",
+			"-----------------",
+			"----------------",
+			"---------------",
+			"--------------",
+			"-------------",
+			"------------",
+			"-----------",
+			"----------",
+			"---------",
+			"--------",
+			"-------",
+			"------",
+			"-----",
+			"----",
+			"---",
+			"------------------",
+			"username",
+			"css",
+			"navigating",
+			"music",
+			"player",
+			">",
+			"<",
+			"1",
+			"asdf",
+			"echo",
+			"	",
+			"hide_",
+			"snippet",
+			"alt+shift+",
+			"\");\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"project": "my wordpress.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/var/www/resultsvtu/resultsvtu.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 169.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
