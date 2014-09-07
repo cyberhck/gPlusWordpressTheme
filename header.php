@@ -7,6 +7,7 @@
 				<link href="http://cdn/Bootstrap/css/bootstrap.min.css" rel="stylesheet">
 				<link rel="stylesheet" href="<?php echo bloginfo('stylesheet_url'); ?>">
 				<link rel="shortcut icon" href="">
+				<?php wp_head(); ?>
 		</head>
 		<?php echo (is_single())?"<body class='single'>":"<body>"; ?>
 				<div class="navbar navbar-fixed-top header">
